@@ -1,7 +1,7 @@
 [![Commanders Act Logo](/Screenshots/CommandersAct.png)](https://www.commandersact.com/)
 # Commanders Act | Server-side events (sGTM)
 ## Overview
-This is a Google Tag Manager (GTM) **server-side** tag template using [Commanders Act](https://www.commandersact.com/) reference specifications. It converts the events received by a GTM server container (usually through the GA4 client) to the Commanders Act event format and sends them to PlatformX through the HTTP tracking API.
+This is a Google Tag Manager (GTM) **server-side** tag template using [Commanders Act](https://www.commandersact.com/) [reference specifications](https://doc.commandersact.com/developers/tracking-and-integrations/tracking/events-reference). It converts the events received by a GTM server container (usually through the GA4 client) to the Commanders Act event format and sends them to PlatformX through the HTTP tracking API.
 
 For a web container, use the [Commanders Act | Serverside events bridge](https://github.com/CommandersAct/Serverside-events-bridge) template instead.
 
